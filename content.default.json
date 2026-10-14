@@ -1,0 +1,171 @@
+{
+  "brand": {
+    "name": "Dra. Marina Chaer",
+    "tagline": "Odontologia · OtoDefinitive",
+    "logo": "assets/chaer-emblem.png"
+  },
+  "hero": {
+    "eyebrow": "ODONTOLOGIA & OTOMODELAÇÃO",
+    "title": "Pequenos cuidados.",
+    "description": "Cuidado odontológico individualizado e avaliação do Método OtoDefinitive. Um encontro para compreender suas necessidades e conversar sobre as possibilidades.",
+    "primaryLabel": "Agendar avaliação",
+    "secondaryLabel": "Conhecer o método",
+    "video": "assets/marina-hero-fullbody.mp4",
+    "poster": "",
+    "highlight": "Grandes transformações."
+  },
+  "method": {
+    "eyebrow": "MÉTODO OTODEFINITIVE",
+    "title": "Harmonia com atenção aos detalhes.",
+    "description": "O Método OtoDefinitive é apresentado como uma abordagem personalizada para a correção de orelhas de abano. A indicação e o planejamento dependem de avaliação individual com a profissional.",
+    "bullets": [
+      "Avaliação individual de cada caso",
+      "Planejamento personalizado",
+      "Conversa clara sobre expectativas e possibilidades"
+    ],
+    "ctaLabel": "Agendar avaliação para o método",
+    "gallery": [
+      {
+        "src": "assets/caso-orelha-03.jpg",
+        "alt": "Comparação de vista posterior das orelhas",
+        "caption": "Vista posterior"
+      },
+      {
+        "src": "assets/caso-orelha-01.jpg",
+        "alt": "Comparação de perfil de paciente",
+        "caption": "Vista lateral"
+      },
+      {
+        "src": "assets/caso-orelha-02.jpg",
+        "alt": "Comparação frontal de paciente",
+        "caption": "Vista frontal"
+      }
+    ],
+    "video": "assets/metodo-otodefinitive.mp4",
+    "howTitle": "Naturalidade nos detalhes. Precisão em cada etapa.",
+    "videoDescription": "Você sabia que é possível remodelar as orelhas por meio de um acesso muito pequeno, localizado atrás delas?\nCom o método **Otodefinitive**, realizado pela Dra. Marina Chaer, utilizamos uma técnica delicada que permite acessar e remodelar a cartilagem por meio de uma pequena abertura, com aproximadamente o tamanho da ponta de uma caneta.\nA partir desse acesso, realizamos um descolamento cuidadoso dos tecidos, permitindo trabalhar a cartilagem com precisão e suavidade para redesenhar o formato das orelhas.\nO objetivo é alcançar um resultado natural, respeitando a anatomia e a harmonia de cada rosto.\n**Porque transformar não significa mudar quem você é, mas valorizar os detalhes que fazem parte de você.**"
+  },
+  "services": {
+    "title": "Odontologia",
+    "description": "",
+    "items": [
+      {
+        "title": "Lentes em porcelana",
+        "description": "Planejamento estético individual, definido após avaliação clínica e conversa sobre as características do sorriso.",
+        "image": "assets/lentes-porcelana.webp",
+        "alt": "Detalhe de sorriso em fotografia odontológica",
+        "published": true
+      },
+      {
+        "title": "Lentes em resina estratificada",
+        "description": "Abordagem estética com resina, planejada pela profissional conforme avaliação de cada caso.",
+        "image": "assets/lentes-resina.webp",
+        "alt": "Sorriso em fotografia odontológica",
+        "published": true
+      },
+      {
+        "title": "Clareamento dental",
+        "description": "Avaliação e orientação sobre as possibilidades de clareamento para cada paciente.",
+        "image": "",
+        "alt": "",
+        "published": true
+      },
+      {
+        "title": "Limpeza dental",
+        "description": "Higienização profissional e cuidados preventivos conforme a necessidade clínica.",
+        "image": "",
+        "alt": "",
+        "published": true
+      },
+      {
+        "title": "Aparelho ortodôntico",
+        "description": "Avaliação ortodôntica para conversar sobre as opções de aparelho e o planejamento indicado.",
+        "image": "",
+        "alt": "",
+        "published": true
+      },
+      {
+        "title": "Extração de siso",
+        "description": "Avaliação do dente do siso e orientação sobre a necessidade de extração.",
+        "image": "",
+        "alt": "",
+        "published": true
+      },
+      {
+        "title": "Tratamento de canal",
+        "description": "Tratamento endodôntico indicado após avaliação clínica.",
+        "image": "",
+        "alt": "",
+        "published": true
+      }
+    ]
+  },
+  "about": {
+    "title": "Prazer, sou a Dra. Marina Chaer",
+    "description": "Dentista e profissional à frente da CHAER, com atuação em odontologia e no Método OtoDefinitive. Seu atendimento começa com escuta, avaliação e planejamento individual.",
+    "photo": "assets/dra-marina-sobre-mim-localizacao.jpg",
+    "formation": "Formação e trajetória serão informadas pela clínica.",
+    "credentials": "Credenciais e registro profissional a confirmar."
+  },
+  "faqs": {
+    "title": "Dúvidas frequentes",
+    "items": [
+      {
+        "question": "Como funciona a avaliação?",
+        "answer": "A avaliação permite conversar sobre suas necessidades e entender as opções adequadas para o seu caso. Entre em contato para informações sobre agendamento.",
+        "published": true
+      },
+      {
+        "question": "Como posso agendar uma consulta?",
+        "answer": "Entre em contato pelos canais oficiais da clínica, informados nesta página.",
+        "published": true
+      },
+      {
+        "question": "Como funciona a avaliação para o Método OtoDefinitive?",
+        "answer": "A profissional avalia cada caso individualmente e conversa sobre possibilidades e planejamento.",
+        "published": true
+      },
+      {
+        "question": "Quais tratamentos odontológicos estão disponíveis?",
+        "answer": "Consulte a clínica para confirmar os tratamentos atualmente oferecidos.",
+        "published": true
+      },
+      {
+        "question": "Onde fica a clínica?",
+        "answer": "O endereço será informado assim que confirmado pela clínica.",
+        "published": true
+      },
+      {
+        "question": "Como posso entrar em contato?",
+        "answer": "Utilize os canais oficiais exibidos na seção Contato.",
+        "published": true
+      }
+    ]
+  },
+  "contact": {
+    "title": "Vamos conversar?",
+    "description": "Agende uma avaliação e conheça as opções adequadas para o seu caso.",
+    "whatsapp": "+55 62 99633-5133",
+    "instagram": "https://www.instagram.com/dramarinachaer?utm_source=ig_web_button_share_sheet&cplk=ZDNlZDc0MzIxNw==",
+    "address": "R. 1, Qd. 06 - Lt. 07 - Jardim Paraíso, Nerópolis - GO, 75466-392",
+    "maps": "https://www.google.com/maps?ll=-16.405116,-49.205425&z=15&t=m&hl=pt-BR&gl=US&mapclient=embed&q=R.+1,+Qd+06+-+Lt+07+-+Jardim+Paraiso,+Ner%C3%B3polis+-+GO,+75466-392+Chaer+construindo+servi%C3%A7os",
+    "hours": "",
+    "email": "",
+    "ctaLabel": "Agendar avaliação"
+  },
+  "theme": {
+    "ivory": "#f6f2e9",
+    "ink": "#171512",
+    "gold": "#a98243"
+  },
+  "animation": {
+    "enabled": true,
+    "intensity": 1,
+    "vertical": 22,
+    "rotation": 3
+  },
+  "seo": {
+    "title": "Dra. Marina Chaer | CHAER",
+    "description": "Cuidado odontológico individualizado e avaliação do Método OtoDefinitive. Um encontro para compreender suas necessidades e conversar sobre as possibilidades."
+  }
+}
